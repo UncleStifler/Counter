@@ -1,0 +1,24 @@
+
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  text-align: center;
+}
+
+
+.block {
+  height: 300px;
+  width: 350px;
+  display: flex;
+  border: 5px solid #7bc8e3;
+  padding: 30px;
+  border-radius: 15px;
+
+}
+
+
